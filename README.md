@@ -2,6 +2,8 @@
 
 Run Claude Code with local LLMs via Ollama. No API keys required.
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 ## Quick Start
 
 ```bash
