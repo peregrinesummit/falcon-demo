@@ -1,0 +1,7 @@
+{
+  "enabledMcpjsonServers": [
+    "playwright-test",
+    "shadcn"
+  ],
+  "enableAllProjectMcpServers": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "claude-ollama-examples",
+  "version": "1.0.0",
+  "description": "Examples for using Claude Code with Ollama locally",
+  "type": "module",
+  "scripts": {
+    "basic": "node basic_chat.mjs",
+    "stream": "node streaming_chat.mjs",
+    "chat": "node multi_turn.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
